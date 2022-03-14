@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @trevvbai
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning the react ecosystem
 - 📫 How to reach me: trevvbai@gmail.com
 
 <!---
